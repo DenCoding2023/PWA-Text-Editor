@@ -67,3 +67,30 @@ yarn.lock
 .DS_Store
 .vscode
 *.xslx
+
+# Node.js
+/node_modules
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# IDE files
+.vscode/
+.idea/
+
+# Output files
+/dist
+
+# Other build artifacts
+/build
